@@ -700,6 +700,7 @@
   "register.submit": "Register",
   "socket.connected": "Connected",
   "socket.connecting": "Connecting",
+  "socket.stopped": "Stopped",
   "socket.waiting": "Please wait",
   "user.password": "Password",
   "user.username": "Username"
