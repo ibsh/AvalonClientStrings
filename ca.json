@@ -657,7 +657,7 @@
   "game.ui.statMove": "Moviment",
   "game.ui.statPass": "Passada",
   "game.ui.throwRulerHide": "Amaga",
-  "game.ui.throwRulerLabel": "Regla de passada:",
+  "game.ui.throwRulerLabel": "Regla de passada",
   "game.ui.throwRulerShow": "Mostra",
   "game.ui.versusAbbreviation": "vs",
   "index.firstParagraph": "Benvingut a %{avalonFootballName}, una implementació inline gratuita del joc de taula %{blitzBowlName} de %{gamesWorkshopName}.",

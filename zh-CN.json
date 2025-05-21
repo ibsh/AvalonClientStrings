@@ -657,7 +657,7 @@
   "game.ui.statMove": "移动值",
   "game.ui.statPass": "传球值",
   "game.ui.throwRulerHide": "隐藏",
-  "game.ui.throwRulerLabel": "传球尺:",
+  "game.ui.throwRulerLabel": "传球尺",
   "game.ui.throwRulerShow": "显示",
   "game.ui.versusAbbreviation": "vs",
   "index.firstParagraph": "欢迎来到%{avalonFootballName},这个是%{blitzBowlName}（此桌游本体由%{gamesWorkshopName}制作）的线上桌游对决系统，免费。",
