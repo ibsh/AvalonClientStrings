@@ -553,7 +553,7 @@
   "game.skillDescription.hitAndRun": "After this player makes a Block action, they may make a free Run action of up to 2 spaces. This action may be made even if they are Marked.",
   "game.skillDescription.hulkingBrute": "When this player makes a Block action, treat results of \"Tackle\" or \"Smash\" as \"Kerrunch\". In addition, if this player is the target of a Block action, treat results of \"Shove\" as \"Miss\".",
   "game.skillDescription.hurlTeammate": "This player can perform a Throw Teammate action.",
-  "game.skillDescription.insignificant": "Opponents may move or end their move adjacent to this player during a Run action. In addition, when this player makes a Block action, treat results of \"Tackle\" as \"Miss\".",
+  "game.skillDescription.insignificant": "Opponents may move adjacent to this player during a Run action. In addition, when this player makes a Block action, treat results of \"Tackle\" as \"Miss\".",
   "game.skillDescription.leap": "When this player makes a Run action they can move adjacent to and through players, but must end the action Open.",
   "game.skillDescription.litheCreature": "When this player makes a Run action they can move adjacent to opponents, but must end the action Open. This player cannot make Throw actions.",
   "game.skillDescription.mightyBlow": "When this player makes a Block action, treat results of \"Smash\" as \"Kerrunch\".",
