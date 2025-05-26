@@ -684,6 +684,7 @@
   "lobby.games.table.status.watchReplay": "Watch Replay",
   "login.error": "Either your username or password was invalid.",
   "login.submit": "Login",
+  "page.credits": "Code and pixels by %{ibsh}. Character designs by %{daveYourFave}. %{portOBowlName} models by %{portOBowlAttribution}.",
   "page.footer": "%{blitzBowlLink} and associated terms are trademarks of %{gamesWorkshopLink}, and are used without permission. This website is completely unofficial, is in no way endorsed by %{gamesWorkshopName}, and makes no challenge to their status. You must own a copy of the %{blitzBowlName} board game to play %{avalonFootballName}.",
   "page.title.help": "How to Play",
   "page.title.lobby": "Lobby",
