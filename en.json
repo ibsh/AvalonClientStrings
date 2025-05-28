@@ -521,7 +521,7 @@
   "game.prompt.selectSquares": "Choose squares for %{action} action.",
   "game.prompt.selectTarget": "Choose a target for %{action} action.",
   "game.prompt.selectTeam": "Choose your team",
-  "game.prompt.selectTeamTitle": "%{teamName} Team"
+  "game.prompt.selectTeamTitle": "%{teamName} Team",
   "game.prompt.selectTeammate": "Choose a teammate for %{action} action.",
   "game.prompt.selectTeamMouseoverGuidance": "Mouse over each player to check their details.",
   "game.prompt.useBananaSkinMore": "Choose a player for Banana Skin, or decline to use it.",
